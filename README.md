@@ -6,9 +6,17 @@ The objective of the project was to create a professional digital portfolio that
 
 The code for the digital portfolio webpage needed to be written from scratch and to have a responsive layout that adjusts to various viewports. The webpage must include an” about me” section, a gallery of previous work (portfolio) and display the contact information. 
 
-***Work completed*** 
 
-The following were created/ completed within the index.html code:
+## Table of Contents
+
+* [Work completed](#work-completed)
+* [Installation](#installation)
+* [Preview](#preview)
+* [License](#license)
+
+## Work completed
+
+***Work completed within the index.html code:***
 
 * Header section that includes a logo, name and navigation menu 
 * Hero banner that includes an image and a quote. Added font weight style to the quote text
@@ -20,7 +28,7 @@ The following were created/ completed within the index.html code:
 * Linked to an external google font styles and a css style sheet
 
 
-The following were created/ completed within the CSS code:
+***Work completed within the CSS code:***
 
 * Used root to define repetitive code
 * Organized and grouped general and common code used through the style sheet
@@ -57,14 +65,6 @@ Note: Only includes the link to the previous project completed, the “ Horiseon
 
 * Delineated sections or elements by adding comments
 * Organized CSS code elements to follow the semantic structure of the index.html code
-
-
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Preview](#preview)
-* [License](#license)
 
 
 ## Installation
