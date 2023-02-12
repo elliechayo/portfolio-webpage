@@ -27,8 +27,9 @@ The following were created/ completed within the CSS code:
 * Header:
      * styled the nav menu to show a colored block (highlighter) upon hovering.
      * Linked menu items to their corresponding place on the page.
-     * Linked a resume downloadable pdf file to the “resume” menu item
+     * Linked a (sample) downloadable Resume pdf file to the “resume” menu item
      * Added media query for responsive layout
+
 * Hero banner: 
      * Styled background color to match the image background
      * Positioned elements via Flex commends
@@ -38,6 +39,7 @@ The following were created/ completed within the CSS code:
      * Styled the pages with various size boxes (as a container for text and as page decoration)
      * Styled the skill set item list with different background and font colors and weights
      * Added media query for responsive layout to stack the text elements above image
+
 * Portfolio section:
      * Styled images with overlay captions and positioned them as a gallery via grid display 
      * Styled the main image at a larger size and added a scrollbar function as well as transform style while hovering
@@ -61,7 +63,7 @@ Note: Only includes the link to the previous project completed, the “ Horiseon
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#usage)
+* [Preview](#preview)
 * [License](#license)
 
 
@@ -70,20 +72,20 @@ Note: Only includes the link to the previous project completed, the “ Horiseon
 Upload the application files to a webserver.
 
 
-## Usage
+## Preview
  
 
 The following image shows the web application appearance once deployed
 
 
-![html screenshot](assets/images/html-screenshot.png)
+![html screenshot](/assets/images/deployed-site-image.jpg)
 
 
 **Links**
 
-URL of the deployed application
+[URL of the deployed application](https://elliechayo.github.io/portfolio-webpage/)
 
-URL of the GitHub repository
+[URL of the GitHub repository](https://github.com/elliechayo/portfolio-webpage)
 
 ## License
 
