@@ -308,6 +308,7 @@ header {
      z-index: 99;
      top: 50%;
      right: 60px;
+     border-radius: 20px;
    }
    
    .project-boxes .box {
@@ -336,11 +337,14 @@ header {
      grid-template-columns: 1fr 1fr 1fr;
      padding: 80px;
      background: #0f0d0e;
-     border-radius: 5px;
+     
    }
    
    .projects-gallery img {
      max-width: 100%;
+    
+   
+     
    }
    
    .project-link {
@@ -357,6 +361,7 @@ header {
      font-size: 16px;
      font-weight: 900;
      color: black;
+     
    }
    
    .project-title::after {
@@ -382,6 +387,7 @@ header {
    
    .project-link.large::-webkit-scrollbar {
      display: none;
+     
    }
    
    /* Hide the boxes to prevent horizontal scroll*/
